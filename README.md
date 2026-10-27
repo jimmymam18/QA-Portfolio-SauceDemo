@@ -1,9 +1,9 @@
 # QA Portfolio: SauceDemo Manual Testing
 
-**Tester:** Veasna Mam | ISTQB CTFL
-**Application under test:** [SauceDemo (Swag Labs)](https://www.saucedemo.com), a public demo e-commerce site built for testing practice
-**Environment:** Google Chrome, macOS
-**Testing type:** Manual (functional and negative testing)
+- **Tester:** Veasna Mam | ISTQB CTFL
+- **Application under test:** [SauceDemo (Swag Labs)](https://www.saucedemo.com), a public demo e-commerce site built for testing practice
+- **Environment:** Google Chrome, macOS
+- **Testing type:** Manual (functional and negative testing)
 
 This repository contains test cases and a defect report I wrote and executed while practicing manual QA. Each test case follows a four-part structure: **Scenario**, **Steps**, **Data**, and **Expected Result**, and was compared against the **Actual Result** during execution.
 
